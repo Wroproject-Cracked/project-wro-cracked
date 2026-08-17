@@ -1,3 +1,5 @@
+AUTH SCREEN TOKEN IS: wrocrackedbyFBI
+
 Some crappy unreleased paid hacked client called project wro 
 
 original dev's discord:
