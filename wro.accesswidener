@@ -1,0 +1,8 @@
+accessWidener	v2	official
+
+# BossBar packet inner classes
+accessible	class	net/minecraft/network/protocol/game/ClientboundBossEventPacket$Operation
+accessible	class	net/minecraft/network/protocol/game/ClientboundBossEventPacket$OperationType
+
+# OptionInstance inner classes for fullbright
+accessible	class	net/minecraft/client/OptionInstance$SliderableValueSet
